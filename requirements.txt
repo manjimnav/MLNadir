@@ -1,0 +1,11 @@
+catboost==1.2.5
+ipython==8.12.3
+lightgbm==4.3.0
+numpy==1.24.3
+pandas==1.5.3
+PyYAML==6.0.1
+PyYAML==6.0.1
+scikit_learn==1.2.2
+scikit_optimize==0.10.1
+tqdm==4.66.4
+xgboost==2.0.3

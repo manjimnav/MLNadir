@@ -1,0 +1,12 @@
+*.csv
+*.xlsx
+*.bak
+*.zip
+*.tex
+*.joblib
+data/
+catboost_info/
+.ipynb_checkpoints/
+resultsOld/
+models/
+*.pyc
